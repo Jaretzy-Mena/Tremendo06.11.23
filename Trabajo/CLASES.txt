@@ -1,0 +1,23 @@
+CLASES
+Crear un clase para una cuenta de banco (CuentaBancaria).
+Crear campos para el número de cuenta, saldo (balance), nombre del cliente,
+email y número de teléfono.
+Crear métodos setters y getters para cada campo.
+Crear 2 métodos adicionales
+1- Que permita al cliente depositar fondos (debería incrementar el 
+campo balance), mostrar cuánto fue depositado.
+2- Que permita al cliente retirar fondos (debería decrementar el 
+campo balance), mostrar cuánto fue retirado.
+No permitir que se realice retiro si no hay fondos suficientes.
+Verificar que la clase CuentaBancaria funciona correctamente.
+
+CLASES Y CONSTRUCTORES
+Crear una clase llamada ClienteVIP
+Debería tener 3 campos nombre, límite de crédito y correo Electrónico.
+Crear 3 constructores
+1- Constructor vacío, debería llamar al constructor con 3 parámetros y 
+valores predeterminados
+2- Constructor con 2 parámetros de entrada, y agregar un valor 
+predeterminado para el 3er valor
+3- Constructor con todos los campos
+Crear métodos getters únicamente (No se requerirá de métodos setters)
